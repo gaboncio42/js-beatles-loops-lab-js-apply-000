@@ -5,7 +5,7 @@ const musicians = [
   "George Harrison",
   "Ringo Star"];
   
-  const instruments = [
+const instruments = [
     "Guitar",
     "Bass Guitar",
     "Lead Guitar",
@@ -18,5 +18,13 @@ const musicians = [
       }
       return array;
     }
+    
+    const facts = [
+      "He was the last Beatle to learn to drive",
+      "He was never a vegetarian",
+      "He was a choir boy and a boy scout",
+      "He hated the sound of his own voice"];
+      
+  
     
     function 
