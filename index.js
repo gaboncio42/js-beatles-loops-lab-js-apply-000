@@ -26,5 +26,12 @@ const instruments = [
       "He hated the sound of his own voice"];
       
   
-    
-    function 
+function johnLennonFacts(facts) {
+  var array = [];
+  var count = 0;
+  while(count < facts.length) {
+    array.push(facts[count] + "!!!");
+    count++;
+  }
+  return array;
+}
